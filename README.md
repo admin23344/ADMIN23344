@@ -1,37 +1,26 @@
-# ADMIN23344 — Luxury Travel & Tourism
+# ADMIN23344 — Signature Edition V2
 
-**Discover Beyond Borders.**
+**Luxury Travel & Tourism** · Discover Beyond Borders.
 
-A premium, responsive travel inspiration website for GitHub Pages.
+A polished, responsive static travel inspiration website in English with sunset orange `#F47B45`, ocean blue `#176E96`, and cream `#FFF5E9`.
 
-## Brand
-- Sunset orange: `#F47B45`
-- Ocean blue: `#176E96`
-- Cream: `#FFF5E9`
-- Language: English; sample currency: USD
-
-## Files
-- `index.html` — Homepage and featured destination concepts
-- `destinations.html` — 12 demo destination cards, live search, category filter, price sort and detail modal
-- `about.html`, `journal.html`, `contact.html`, `faq.html`, `travel-info.html`
-- `privacy.html`, `terms.html`
-- `assets/css/style.css` — Responsive styling
-- `assets/js/destinations.js` — Editable demo destination data
-- `assets/js/app.js` — Interactions
-- `assets/favicon.svg` — Vector favicon
+## What's new in V2
+- Refined editorial homepage with new imagery, signature travel philosophy and premium visual sections.
+- New interactive **Escape Planner** (`experience-planner.html`) providing local-only, illustrative trip ideas.
+- New **Travel Guide** (`travel-guide.html`) with practical planning information.
+- Improved navigation, accessibility skip links, focus styles and reduced-motion support.
+- Existing destination search, category filters, price sorting, destination details, travel journal, FAQs and informational pages.
 
 ## Publishing to GitHub Pages
-1. Create a repository such as `admin23344-travel`.
-2. Upload the **contents** of this folder to the repository root.
-3. Go to Settings → Pages → Deploy from a branch → `main` → `/ (root)` → Save.
-4. The expected URL is `https://admin23344.github.io/admin23344-travel/`.
+1. Create a public repository, such as `admin23344-travel`.
+2. Upload the **contents** of this folder, including `index.html` and `assets/`, to the repository root.
+3. In GitHub Settings → Pages, select **Deploy from a branch**, `main`, `/ (root)`.
+4. The expected URL is `https://admin23344.github.io/admin23344-travel/` after deployment.
 
-## Before a real launch
-- Replace illustrative products and prices with verified travel offers and appropriate disclosures.
-- Connect a licensed/authorized travel booking partner where required.
-- Connect the contact and newsletter forms to an actual service. Current forms **do not submit or store data**.
-- Review legal/privacy pages and confirm applicable travel seller obligations.
-- Replace externally hosted sample images with properly licensed owned assets.
-- Confirm accessibility, SEO, legal compliance and customer service channels.
+## Important demo limitations
+- All travel packages, prices, and itinerary suggestions are **illustrative**. There is **no live inventory, booking or payment processing**.
+- Contact and newsletter forms are demonstration-only and do not transmit information. Connect a real provider before use.
+- Photographs are remotely hosted on Unsplash and require internet. Verify image rights and availability for production.
+- Privacy and terms pages are templates requiring legal review and business-specific information before commercial use.
 
-**This is a demo, not a live booking platform.** No availability, booking, checkout or payment functionality is provided.
+© 2026 ADMIN23344.
